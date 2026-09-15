@@ -12,7 +12,7 @@ Currently, I'm expanding my development portfolio through modern full-stack appl
 
 ## 🚀 Featured Projects
 
-### Black Market Supply & Demand
+### [Black Market Supply & Demand](https://github.com/sreedartwork/black-market-supply-demand-case-study)
 
 A production full-stack e-commerce application built to explore modern application architecture, authentication, payments, inventory management, and administrative workflows.
 
@@ -34,7 +34,7 @@ A production full-stack e-commerce application built to explore modern applicati
 
 ---
 
-### Enterprise Operations Hub — In Development
+### [Enterprise Operations Hub](https://github.com/sreedartwork/Enterprise-Operations-Hub) — In Development
 
 An enterprise-style Microsoft 365 operations and request-management solution designed around real-world IT and SharePoint administration workflows.
 
@@ -54,7 +54,7 @@ An enterprise-style Microsoft 365 operations and request-management solution des
 
 ---
 
-### The Deep End
+### [The Deep End](https://github.com/sreedartwork/the-deep-end-laravel)
 
 A full-stack restaurant management application built with Laravel and MySQL.
 
